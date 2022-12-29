@@ -1,0 +1,15 @@
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\bin\Debug\net6.0\operatiiCuNumereMari.exe
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\bin\Debug\net6.0\operatiiCuNumereMari.deps.json
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\bin\Debug\net6.0\operatiiCuNumereMari.runtimeconfig.json
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\bin\Debug\net6.0\operatiiCuNumereMari.dll
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\bin\Debug\net6.0\operatiiCuNumereMari.pdb
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\obj\Debug\net6.0\operatiiCuNumereMari.csproj.AssemblyReference.cache
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\obj\Debug\net6.0\operatiiCuNumereMari.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\obj\Debug\net6.0\operatiiCuNumereMari.AssemblyInfoInputs.cache
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\obj\Debug\net6.0\operatiiCuNumereMari.AssemblyInfo.cs
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\obj\Debug\net6.0\operatiiCuNumereMari.csproj.CoreCompileInputs.cache
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\obj\Debug\net6.0\operatiiCuNumereMari.dll
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\obj\Debug\net6.0\refint\operatiiCuNumereMari.dll
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\obj\Debug\net6.0\operatiiCuNumereMari.pdb
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\obj\Debug\net6.0\operatiiCuNumereMari.genruntimeconfig.cache
+D:\Facultate\ASC\HOMEWORK\operatiiCuNumereMari\obj\Debug\net6.0\ref\operatiiCuNumereMari.dll
